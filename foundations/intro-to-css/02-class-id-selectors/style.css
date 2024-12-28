@@ -1,0 +1,19 @@
+p {
+    font-family: "Arial";
+    background-color: rgba(214, 57, 57, 0.5);
+}
+
+.number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.number4 {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
+.number3 {
+    font-size: 24px;
+}
